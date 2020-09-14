@@ -14,7 +14,7 @@ sorted in a decending order for the outcomes value to arrive at the pivot table 
 
 A PivotChart was generated from the table and is displayed below:
 
-![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Goals.png)  
+![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)  
 
 ### Analysis of Outcomes Based on Launch Date
 
