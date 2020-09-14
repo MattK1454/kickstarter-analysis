@@ -1,0 +1,35 @@
+# Overview of Project
+
+## Purpose and Background
+
+  This project was a result of a request from Louise to analyize data from kickstarter campaigns in order to discern the outcomes
+of campaigns based on campaign launch dates and campaign goals.
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+  Using a data set of Kickstarter campaigns, values for campaign date initiation, outcome, and "parent category" was aggregated into a pivot table.
+This data was filtered by parent category for "Theater". The results of this filter were further analyzed by filtering the dates of campaign launch
+by month of launch. The data was then filtered for outcomes only including the values of "successful", "failed", and "canceled".These results were 
+sorted in a decending order for the outcomes value to arrive at the pivot table displaying aggregated counts of campaign outcomes.
+
+A PivotChart was generated from the table and is displayed below:
+
+![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)  
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
+## References
