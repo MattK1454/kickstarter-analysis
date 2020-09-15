@@ -48,24 +48,24 @@ This challlenge was solved using a Google search result[4].
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 1. The first conclusion that can be drawn from the Outcomes based on Launch Date is May would be the best month to launch a theater campaign.
 
 2. The second conclusion that can be drawn from the Outcomes based on Launch Date is December would be the worst month to launch a theater 
    campaign. 
 
-- What can you conclude about the Outcomes based on Goals?
+What can you conclude about the Outcomes based on Goals?
 
 From the graph, it can be concluded that the optimal goal ranges for a theater campaign are ranges targeting less than $5000 and between $35,000 and $40,000.
 
-- What are some limitations of this dataset?
+What are some limitations of this dataset?
 
 One possible limitation of this data set is that it only analyzes campaign data from a singular crowdfunding platform. A more accurate data analysis could be
 derived if data regarding theater campaigns from other sources were incorporated. Another limitation of this data set is the time frame for the data is not
 current (does not include the most recent month). Including more recent data would yield a more accurate data analysis of trends in fundraising.
 
-- What are some other possible tables and/or graphs that we could create?
+What are some other possible tables and/or graphs that we could create?
 
 Possible tables and graphs that could be generated for a better understanding of theater campaign trends would include:
 
